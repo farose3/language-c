@@ -1,4 +1,6 @@
-#include <stdio.h>
+#include <stdio.h> // stdio = standart input output
+#include <stdbool.h> // stdbool = standart boolean
+
 
 int main() {
     // conditional statement
