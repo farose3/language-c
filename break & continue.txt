@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+// break and continue statement
+// switch case
+
+int main() {
+    
+    int i;
+    
+    for (i = 0;i <= 10; i++) {
+        if (i % 2 == 1)
+        continue;
+        // break = stop when it reach the determined number, continue = skip the determined number
+        printf("%d\n", i);
+    }
+    return 0;
+}
