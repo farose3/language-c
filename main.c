@@ -1,6 +1,21 @@
 #include <stdio.h> // stdio = standart input output
 #include <stdbool.h> // stdbool = standart boolean
 
+// datatypes
+// int = integer
+// char(character) = "",'',("yoo")
+// bool(boolean) = validate value(true,false)
+// float = 3.14(decimal point)
+// double = 3.145523(moare than 2 decimal point)
+// null = (none)
+
+// variable name
+// 1. datatypes 2. variable name 3. value default
+// int x = 10
+// char fullName = "ELi";
+// isYoung = false;
+
+// function main() = it's mean the first initial of all the program in C
 
 int main() {
     // conditional statement
@@ -62,3 +77,10 @@ int main() {
         
     return 0;
 }
+
+// git add . = addeade file (all of file change)
+
+// Add:
+// Edit:
+// Deleted:
+// Push:
